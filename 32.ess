@@ -1,5 +1,7 @@
 start
 new age number
 set age 18
-log string "Привет, меня зовут Кира, мне ">>age>>" лет."
+new name string
+set name "Кира"
+log string "Привет, меня зовут ">>name>>", мне ">>age>>" лет."
 finish

@@ -1,5 +1,5 @@
 start
 new a number
 set a 2
-log a+a
+log number a+a
 finish
